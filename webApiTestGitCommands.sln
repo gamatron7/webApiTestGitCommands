@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webApiTestGitCommands", "webApiTestGitCommands\webApiTestGitCommands.csproj", "{5D553A62-F18C-4A57-9DB9-EA4815977AC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D553A62-F18C-4A57-9DB9-EA4815977AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D553A62-F18C-4A57-9DB9-EA4815977AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D553A62-F18C-4A57-9DB9-EA4815977AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D553A62-F18C-4A57-9DB9-EA4815977AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {474B3A38-A6CE-47CA-A13D-605104F35E07}
+	EndGlobalSection
+EndGlobal

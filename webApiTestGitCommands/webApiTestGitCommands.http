@@ -1,0 +1,6 @@
+@webApiTestGitCommands_HostAddress = http://localhost:5158
+
+GET {{webApiTestGitCommands_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
